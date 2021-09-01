@@ -208,22 +208,7 @@ export default defineComponent({
 
           cart:[ ],
           methods: {
-            
-            carrinho() {
-            window.localStorage.carrinho = JSON.stringify(this.cart);
-            },
-
-        computed: {
-        carrinhoTotal() {
-            let total = 0;
-
-            if (this.carrinho.length) {
-                this.carrinho.forEach(item => {
-                    total += item.preco;
-                });
-            }
-
-            return total;
+           
         }
     },
 
