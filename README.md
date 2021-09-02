@@ -1,26 +1,26 @@
-# mystore (mystore)
+# Carrinho em VUEJS & Quasar (mystore)
 
-App de teste para Planos
+Desafio front-end
 
-## Install the dependencies
+## Instalar as Dependencias
 ```bash
 yarn
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Inicie o aplicativo no modo de desenvolvimento (recarregamento de hot-code, relatório de erros etc.)
 ```bash
 quasar dev
 ```
 
-### Lint the files
+### Lint os arquivos
 ```bash
 yarn run lint
 ```
 
-### Build the app for production
+### Crie o aplicativo para produção
 ```bash
 quasar build
 ```
 
-### Customize the configuration
+### Personalizar as configurações
 See [Configuring quasar.conf.js](https://v2.quasar.dev/quasar-cli/quasar-conf-js).
