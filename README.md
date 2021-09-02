@@ -1,4 +1,4 @@
-# Carrinho em VUEJS & Quasar (mystore)
+# Carrinho em VueJS & Quasar (mystore)
 
 Desafio front-end
 
